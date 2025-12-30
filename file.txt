@@ -1,3 +1,0 @@
-line1
-testing second file
-feature work 1 
